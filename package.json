@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/command-project-vyshyvanka-vibes/",
+    "build": "vite build --base=/html-css_96_VeronikaVaraksina1/",
     "preview": "vite preview"
   },
   "devDependencies": {
